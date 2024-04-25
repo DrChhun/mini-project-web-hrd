@@ -1,0 +1,25 @@
+{
+  "name": "todos-web-mini-project-kimchhun-public-repo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "next-auth": "^4.24.7",
+    "npm": "^10.5.2",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "daisyui": "^4.10.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
